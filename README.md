@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alizaki22
 - 👀 I’m interested in Blockchain Technology 
-- 🌱 I’m currently learning Python & Solidity
+- 🌱 I’m currently learning Javascript & Solidity
 - 💞️ I’m looking to collaborate on Blockcahin and Ai Related Projects.
-- 📫 How to reach me ...
+- 📫 How to reach me: LinkedIn:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
