@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Javascript & Solidity
 - 💞️ I’m looking to collaborate on Blockcahin and Ai Related Projects.
 - 📫 How to reach me: LinkedIn:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Building Web3 projects while surviving engineering exams😇.
 
 
 
@@ -21,16 +21,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alizaki22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!-- 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alizaki22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alizaki22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Alizaki22/Alizaki22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
