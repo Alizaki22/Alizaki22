@@ -1,38 +1,127 @@
-- 👋 Hi, I’m @Alizaki22
-- 👀 I’m interested in Blockchain Technology 
-- 🌱 I’m currently learning Javascript & Solidity
-- 💞️ I’m looking to collaborate on Blockcahin and Ai Related Projects.
-- 📫 How to reach me: LinkedIn:
+# Hi, I'm Aliyu Gambo Abubakar 👋
+
+### Computer Engineering Student | AI/ML · Cybersecurity · Web3
+
+I'm a Computer Engineering student at Gujarat Technological University (GTU), India, exploring how artificial intelligence, cybersecurity, and blockchain technology can help solve real-world problems.
+
+I learn by building projects, experimenting with new technologies, and collaborating with other developers. I'm continuously improving my skills through coursework, personal projects, and hackathons.
+
+- 🎓 Computer Engineering student at GTU, India
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🔐 Building projects focused on AI-powered cybersecurity
+- ⛓️ Learning JavaScript, Solidity, and blockchain development
+- 🤝 Open to collaborating on AI/ML, cybersecurity, and Web3 projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Building Web3 projects while surviving engineering exams😇.
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/user/aliyugamboabubakar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100080495484475) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aliyu-gambo-abubakar-6614b8234/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ALIYUGABUBAKAR) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@scholarshipplus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliyu22mof@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alizaki22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alizaki22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alizaki22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alizaki22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alizaki22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- ⚡ Fun fact: Building projects while surviving engineering exams 😅
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alizaki22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
 
-<!---
-Alizaki22/Alizaki22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyu-gambo-abubakar-6614b8234/)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ALIYUGABUBAKAR)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@scholarshipplus)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080495484475)
+[![Discord](https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1564918734857052291)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliyug22mof@gmail.com)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Fine-Tuned Multi-Agent AI for Cyber Defense
+
+Exploring a multi-agent AI system for cybersecurity analysis. Specialized agents examine security events, compare findings, and contribute to a final recommendation using a trust-aware mechanism.
+
+**Focus:** Python, LLM fine-tuning, multi-agent systems, and cybersecurity.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Alizaki22/trust-aware-cyber-defense)
+
+### 🛡️ AI Cybersecurity App — CySec AI
+
+A web application focused on analyzing text messages for potential cybersecurity threats.
+
+**Focus:** AI applications, cybersecurity, and full-stack development.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Alizaki22/ai-cybersecurity-app)
+
+### ⛓️ OpportunityOS
+
+A Web3-focused project exploring how technology can help people discover and access opportunities.
+
+**Focus:** TypeScript, Web3, and application development.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Alizaki22/OpportunityOS)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_OpportunityOS-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://opportunity-os-ashy.vercel.app/)
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### AI/ML & Cybersecurity
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-412991?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-Learning-6E40C9?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Projects-2E8B57?style=for-the-badge)
+
+### Blockchain & Web3
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+### Databases, Tools & Platforms
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alizaki22&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alizaki22&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alizaki22&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Developer Quote
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 🤝 Let's Learn and Build Together
+
+I'm interested in connecting with developers, students, researchers, and builders who enjoy experimenting with technology and solving meaningful problems.
+
+If you're working on an interesting AI/ML, cybersecurity, or Web3 project, feel free to reach out.
+
+**Learning by building. Improving through collaboration. One project at a time.**
